@@ -45,12 +45,40 @@
 
 /* and */
 
+@media (min-width:501px) and (max-width:600px)
+{
 
-/* comma (or) */
+    body { background: lime; }
+
+}
+
+
+/* comma (or) two possible arguments */
+/* screen or handheld that supports color */
+
+/*@media screen and (color), handheld and (color) {
+
+    body {
+        background: lime;
+    }
+}*/
 
 
 /* not */
 
+/*@media not screen and (color){
+
+    body {
+        background: lime;
+    }
+}*/
+
 
 /* only */
 
+/*@media only screen and (color) {
+
+    body {
+        background: lime;
+    }
+}*/
