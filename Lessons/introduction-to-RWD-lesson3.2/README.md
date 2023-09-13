@@ -58,8 +58,11 @@ This helps the div become scaleable.
 ### Step 1: Calculate the ration between height and width to get a ratio
 
 define1 the ratio between width and height
+
+```
 <height> / <width> = <ratio>
 300px / 600px = 0.5 = 50%
+```
 
 ### Step 2: Add this percentage as padding to the container
 
