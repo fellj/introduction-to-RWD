@@ -140,3 +140,5 @@ Breakpoints are locations where the grid will change from a single column (narro
 |Narrow    | Up to 30 em    |
 |Medium    | 30 em to 45 em |
 |Wide      | 45 and above   |
+
+These patterns are applied using media queries. See layout.css lines 35-86.
