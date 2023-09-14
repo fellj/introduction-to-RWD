@@ -18,6 +18,8 @@ This element is nested within the **head** html tag.
 
 ```
 
+Here us the full css definition.
+
 ```css
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
