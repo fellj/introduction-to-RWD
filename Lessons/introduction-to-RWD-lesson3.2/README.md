@@ -55,7 +55,7 @@ Padding is added to the overall height. Using percentage values for padding will
 
 This helps the div become scaleable.
 
-### Step 1: Calculate the ration between height and width to get a ratio
+### Step 1: Calculate the divisor between height and width to get a ratio
 
 define1 the ratio between width and height
 <height> + <width> = <ratio>
