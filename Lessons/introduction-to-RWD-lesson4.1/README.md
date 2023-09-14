@@ -5,12 +5,13 @@
 
 Allows web developers to **control the viewport's size and scale.** A wide range of other mobile devices now support this element.
 
-This element is nested within the **head** hrml tag.
+This element is nested within the **head** html tag.
 
 ```html
 
 <body>
     <head>
+        <meta></meta>
     </head>
 </body>
 
