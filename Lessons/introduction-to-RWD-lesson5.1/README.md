@@ -242,13 +242,33 @@ We also need to increase the **font-size** of the **banner-text**.
 
 /* 18px * 2 = 36px ------ small screen */
 
-3.33333em 
+2.44444em 
 
-/* 18px * 2.44444 = 60px ------ medium screen */
+/* 18px * 2.44444 = 44px ------ medium screen */
 
-4em 
+3em 
 
 /* 18px * 3 = 72px ------ wide screen */
+
+
+
+```
+
+We also need to increase the **font-size** of the **banner-text**.
+
+```css
+
+1.22222em 
+
+/* 18px * 1.22222 = 36px ------ small screen */
+
+1.33333em
+
+/* 18px * 1.33333 = 44px ------ medium screen */
+
+1.5em 
+
+/* 18px * 1.5 = 72px ------ wide screen */
 
 
 
